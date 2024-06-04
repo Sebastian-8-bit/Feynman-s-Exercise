@@ -1,6 +1,6 @@
 # Feynman-s-Exercise
 
-These are my work on the exercises of the Feynman's Lecture on Physics.
+These are my work on the exercises from the Feynman's Lecture on Physics.
 
 All the figures in the pdf file is redrawn using Mathcha.
 The pdf files is exported directly from Obsidian.
