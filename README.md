@@ -2,4 +2,8 @@
 
 These are my work on the exercises of the Feynman's Lecture on Physics.
 
-All the figure in the pdf file is redrawn via Mathcha. And the pdf file is exported directly from Obsidian.
+All the figures in the pdf file is redrawn using Mathcha.
+The pdf files is exported directly from Obsidian.
+
+I'm not a native English speaker, so there might be some grammar error or words used incorrectly.
+I hope the core idea of dealing with the exercises is clear enough for other people who also want to learn FLP to understand.
